@@ -24,7 +24,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, roc_curve, auc
     
 
-#load the dataset
+#load the dataset to read with pandas
 
 df = pd.read_csv('dec22pub.csv')
 
