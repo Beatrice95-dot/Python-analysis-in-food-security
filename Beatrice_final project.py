@@ -8,8 +8,6 @@ Created on Sun Oct 26 18:34:16 2025
 
 
 
-#I got some ideas from the data sciencee institute wesite, https://www.datascienceinstitute.net/ai-data-science-blog/binary-logistic-regression-in-python-tutorial
-
 
 import pandas as pd
 import numpy as np
